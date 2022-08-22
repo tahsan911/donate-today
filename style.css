@@ -136,6 +136,7 @@ form >  button{
     margin: 10px 45px;
 }
 
+
 .email-section{
     height: 80vh;
     display: flex;
@@ -165,6 +166,7 @@ form >  button{
     border-radius: 0px;
     padding: 11px;
 }
+
 
 footer{
     background-color: #0B0D17;
